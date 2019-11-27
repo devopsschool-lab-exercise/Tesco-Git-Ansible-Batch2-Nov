@@ -663,3 +663,51 @@ SITE -
 
 
 Last Project - https://www.devopsschool.com/blog/ansible-role-project-1/
+===========================================================================
+
+ansible-playbook example.yml --tags "packages"
+ansible-playbook example.yml --tags "configuration,packages"
+
+======================================  
+What is Tower
+      LDAP AUTHENTICATION
+      org
+      Email notify
+      Dashboarding
+      Schduling.
+
+    --------------
+    PYTHON + NGINX + RABBIT MQ + PS
+
+How to install -
+There is role which would install TOWER.
+===============================================
+Where to find
+          SLIDES
+          https://www.devopsschool.com/slides/ansible/
+          TUTORIALS
+          https://www.devopsschool.com/tutorial/ansible/
+          NOTES
+          PDF
+          https://www.devopsschool.com/pdf/ansible/
+          VIDEO
+          https://www.youtube.com/channel/UCrXr49kBvXJeQMMl2693c4g
+          SAMPLE Program
+          https://github.com/orgs/devopsschool-lab-exercise/dashboard
+          https://github.com/orgs/devopsschool-projects/dashboard
+          https://github.com/orgs/devopsschool-sample-projects/dashboard
+          https://github.com/devops-school
+        
+          QUIZ
+          https://www.devopsschool.com/lms
+
+          BLOG
+          https://www.devopsschool.com/blog/?s=ansible
+
+          How to reach out to Rajesh 
+          http://rajeshkumar.xyz/
+
+          Training Cert
+          http://devopscertification.co/certificates/index.html
+
+          Official Cert -
