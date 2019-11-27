@@ -1,0 +1,5 @@
+---
+ - name: Creating a real group
+   group:
+     name: deploy
+     state: present
